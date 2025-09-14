@@ -3,7 +3,7 @@
  [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEdF0qEaXIu2Q/profile-displaybackgroundimage-shrink_350_1400/B4DZlIGQNsG8AY-/0/1757851223458?e=1760572800&v=beta&t=9js0Suv3g58glqpEKGP2EN2EhqFAK48kUFXqZoyPxok)
 
 
-<h1 align="center"> MERHABA , I'm Muhammet Sadullah Kılıç</h1>
+<h1 align="center"> Hi , I'm Muhammet Sadullah Kılıç</h1>
 <h3 align="center">A passionate junior developer from Türkiye</h3>
 
 <p align="left"> <a href="https://twitter.com/sadolander" target="blank"><img src="https://img.shields.io/twitter/follow/sadolander?logo=twitter&style=for-the-badge" alt="sadolander" /></a> </p>
