@@ -11,9 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/sadolander" target="blank"><img src="https://img.shields.io/twitter/follow/sadolander?logo=twitter&style=for-the-badge" alt="sadolander" /></a> </p>
 
-- 🔭 I’m currently working on **C++ training and games**
+- 🔭 I’m currently working on **Im currently working on C++ training, games and im learning Godot, SQL and C++ at the moment.**
 
-- 🌱 I’m currently learning **Godot,SQL and C++**
 
 - 🤝 I’m looking for help with **c++ education and embedded software**
 
