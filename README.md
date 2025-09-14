@@ -1,7 +1,6 @@
 
 
- [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGD-MYdXk1Aug/profile-displaybackgroundimage-shrink_350_1400/B4DZlIEVIkJcAc-/0/1757850719212?e=1760572800&v=beta&t=TGEhY9bruugSBwaY1M1igEk-01455u6W949e-Micyxo
- )
+ [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEdF0qEaXIu2Q/profile-displaybackgroundimage-shrink_350_1400/B4DZlIGQNsG8AY-/0/1757851223458?e=1760572800&v=beta&t=9js0Suv3g58glqpEKGP2EN2EhqFAK48kUFXqZoyPxok)
 
 
 <h1 align="center">Hi , ı m Muhammet Sadullah Kılıç</h1>
