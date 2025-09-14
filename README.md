@@ -41,7 +41,7 @@ preview
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sadolander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadolander" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammet-sadullah-k%c4%b1l%c4%b1%c3%a7-73aaab21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammet-sadullah-k%c4%b1l%c4%b1%c3%a7-73aaab21a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammet sadullah kılıç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet sadullah kılıç" height="30" width="40" /></a>
 <a href="https://instagram.com/sadullh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadullh" height="30" width="40" /></a>
 </p>
 
@@ -52,27 +52,3 @@ preview
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadullah-kilic&" alt="sadullah-kilic" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
