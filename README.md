@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **muhammetsadullah1@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/muhammet-sadullah](https://www.linkedin.com/in/muhammet-sadullah](https://www.linkedin.com/in/muhammet-sadullah-k%C4%B1l%C4%B1%C3%A7))
+- 📄 Know about my experiences [[https://www.linkedin.com/in/muhammet-sadullah]([https://www.linkedin.com/in/muhammet-sadullah](https://www.linkedin.com/in/muhammet-sadullah-k%C4%B1l%C4%B1%C3%A7](https://www.linkedin.com/in/muhammet-sadullah-k%C4%B1l%C4%B1%C3%A7)))
 
 - ⚡ Fun fact **motosiklet ve kamp**
 
