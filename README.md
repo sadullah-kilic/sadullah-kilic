@@ -5,7 +5,7 @@
 
 
 
-preview
+
 <h1 align="center">Hi , I'm Muhammet Sadullah Kılıç</h1>
 <h3 align="center">A passionate junior developer from Türkiye</h3>
 
