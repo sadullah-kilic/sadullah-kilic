@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammet-sadullah-k%C4%B1l%C4%B1%C3%A7-73aaab21a/](https://www.linkedin.com/in/muhammet-sadullah-k%C4%B1l%C4%B1%C3%A7-73aaab21a/)
 
-- ⚡ Fun fact **motosiklet ve kamp**
+- ⚡ Fun fact **motorcycle and camp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
