@@ -19,7 +19,7 @@ download markdown
 download backup
 
 preview
-<h1 align="center">Hi , ı m Muhammet Sadullah Kılıç</h1>
+<h1 align="center">Hi , I'm Muhammet Sadullah Kılıç</h1>
 <h3 align="center">A passionate junior developer from Türkiye</h3>
 
 <p align="left"> <a href="https://twitter.com/sadolander" target="blank"><img src="https://img.shields.io/twitter/follow/sadolander?logo=twitter&style=for-the-badge" alt="sadolander" /></a> </p>
