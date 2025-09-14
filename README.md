@@ -24,11 +24,11 @@ preview
 
 <p align="left"> <a href="https://twitter.com/sadolander" target="blank"><img src="https://img.shields.io/twitter/follow/sadolander?logo=twitter&style=for-the-badge" alt="sadolander" /></a> </p>
 
-- 🔭 I’m currently working on **c++ eğitim ve oyunlar**
+- 🔭 I’m currently working on **C++ training and games**
 
-- 🌱 I’m currently learning **godot ve c++**
+- 🌱 I’m currently learning **Godot,SQL and C++**
 
-- 🤝 I’m looking for help with **c++ eğitim ve gömülü yazılımlar**
+- 🤝 I’m looking for help with **c++ education and embedded software**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sadullah-kilic/sadullah-kilic](https://github.com/sadullah-kilic/sadullah-kilic)
 
