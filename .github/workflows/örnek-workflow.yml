@@ -1,0 +1,14 @@
+name: Ornek Workflow
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo'yu klonla
+        uses: actions/checkout@v3
+
+      - name: Merhaba Yaz
+        run: echo "GitHub Actions çalışıyor!"
+
