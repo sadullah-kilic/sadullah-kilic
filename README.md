@@ -41,4 +41,3 @@
 
 markdown
 ![Snake animation](https://github.com/sadullah-kilic/sadullah-kilic/blob/output/github-contribution-grid-snake.svg)
-
