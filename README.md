@@ -39,5 +39,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadullah-kilic&" alt="sadullah-kilic" /></p>
 
 
-markdown
-![Snake animation](https://github.com/sadullah-kilic/sadullah-kilic/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sadullah-kilic/sadullah-kilic/output/github-contribution-grid-snake.svg)
