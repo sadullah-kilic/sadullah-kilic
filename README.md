@@ -1,7 +1,5 @@
 
 
- ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEJmqKZG1G3YA/profile-displaybackgroundimage-shrink_350_1400/B4DZlIOUNHH4Ac-/0/1757853336982?e=1760572800&v=beta&t=F_Mr_VvhgrCdQ-KBj-wOn96ifZLRoS6vZpXpcKWvOUU)
-
 
 
 
